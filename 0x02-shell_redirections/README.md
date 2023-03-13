@@ -32,4 +32,16 @@
 
 16-whatsnext => this script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
+17-hidethisword => this script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+18-letteronly => this script displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+19-AZ  => this script will Replace all characters A and c from input to Z and e respectively.
+
+20-hiago => this scgript will Create a script that removes all letters c and C from input.
+
+21-reverse  => this script will reverse its input.
+
+22-users_and_homes => this scriptdisplays all users and their home directories, sorted by users.
+
 
